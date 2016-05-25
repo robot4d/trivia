@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"-->
+               <!--xsi:noNamespaceSchemaLocation="http://www.twowaytv.com.au/trivia/config_schema.xsd">-->
+<configuration>
+    <objects>
+        <object id="location">
+            <property name="exit">http://www.way2bet.com.au</property>
+        </object>
+        <object id="screen.interlude">
+            <property name="show">false</property>
+            <property name="message">Did you know Timbuktu was in Mali?</property>
+            <property name="footer">www.way2play.com</property>
+        </object>
+        <object id="message">
+            <property name="submit">asp/score.asp</property>
+            <property name="congrats">You should stick to the social grade</property>
+            <property name="fail">You showed some skill,but there's room for inprovement</property>
+            <property name="round.complete">You're showing some potential!Keep training!</property>
+            <property name="round.complete">A brilliant effort!You're on top of your game!</property>
+            <property name="round.complete">You're an all-time great!A flawless performance!</property>
+        </object>
+    </objects>
+</configuration>

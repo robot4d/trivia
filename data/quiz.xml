@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<quiz xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.twowaytv.com.au/trivia/quiz_schema.xsd">-->
+<quiz>
+    <title>Sample Quiz (2/20/2002)</title>
+	<items id="1">
+		<item id="1">
+			<question correct="2">Across the world, what sport is widely known as "the world game"?</question>
+			<answer id="1">Tennis</answer>
+			<answer id="2">Football/Soccer</answer>
+			<answer id="3">Swimming</answer>
+			<answer id="4">Beach volleyball</answer>
+		</item>
+		<item id="2">
+			<question correct="4">King of the hill, what sport do Australia's Sydney Kings play?</question>
+			<answer id="1">Rugby League</answer>
+			<answer id="2">Volleyball</answer>
+			<answer id="3">Netball</answer>
+			<answer id="4">Basketball</answer>
+        </item>
+		<item id="3">
+			<question correct="3">Looking back, which country won the FIFA World Cup in 1966?</question>
+			<answer id="1">Italy</answer>
+			<answer id="2">Brazil</answer>
+			<answer id="3">England</answer>
+			<answer id="4">West Germany</answer>
+		</item>
+		<item id="4">
+			<question correct="1">At the wickets, cricketer Glenn McGrath has what unusual nickname?</question>
+			<answer id="1">Pigeon</answer>
+			<answer id="2">Birdie</answer>
+			<answer id="3">Gully</answer>
+			<answer id="4">The Swan</answer>
+		</item>
+        <item id="5">
+			<question correct="2">Which city was recently chosen by the International Olympic Committee as the host city for the 2014 Winter Olympics?</question>
+			<answer id="1">Salzburg</answer>
+			<answer id="2">Sochi</answer>
+			<answer id="3">Brasilia</answer>
+			<answer id="4">Pyeong Chang</answer>
+		</item>
+        <item id="6">
+			<question correct="2">Tee for you. In golf, a score of what under par on a hole is called an eagle?</question>
+			<answer id="1">1</answer>
+			<answer id="2">2</answer>
+			<answer id="3">3</answer>
+			<answer id="4">4</answer>
+		</item>
+		<item id="7">
+			<question correct="2">In AFL, in 2007 Mark Ricciuto was the captain of which AFL team?</question>
+			<answer id="1">Collingwood</answer>
+			<answer id="2">Adelaide</answer>
+			<answer id="3">Carlton</answer>
+			<answer id="4">Essendon</answer>
+        </item>
+		<item id="8">
+			<question correct="3">Circling, where were the 2000 Olympics held?</question>
+			<answer id="1">Seoul</answer>
+			<answer id="2">Atlanta</answer>
+			<answer id="3">Sydney</answer>
+			<answer id="4">Athens</answer>
+		</item>
+		<item id="9">
+			<question correct="2">The union address, in Rugby union teams consist of how many players?</question>
+			<answer id="1">12</answer>
+			<answer id="2">15</answer>
+			<answer id="3">17</answer>
+			<answer id="4">9</answer>
+		</item>
+        <item id="10">
+			<question correct="2">Unseeded at the time, Boris Becker was how old when he won Wimbledon in 1985?</question>
+			<answer id="1">15</answer>
+			<answer id="2">17</answer>
+			<answer id="3">19</answer>
+			<answer id="4">21</answer>
+		</item>
+        <item id="11">
+			<question correct="4">Watching the ball, what sport does Nikki Garrett play professionally?</question>
+			<answer id="1">Baseball</answer>
+			<answer id="2">Netball</answer>
+			<answer id="3">Tennis</answer>
+			<answer id="4">Golf</answer>
+		</item>
+		<item id="12">
+			<question correct="3">Winning ways, the All Blacks won their first World Cup in what year?</question>
+			<answer id="1">1961</answer>
+			<answer id="2">1973</answer>
+			<answer id="3">1987</answer>
+			<answer id="4">1991</answer>
+        </item>
+		<item id="13">
+			<question correct="2">Breaking even, how many world records did Aussie swimmer Ian Thorpe break during his career?</question>
+			<answer id="1">11</answer>
+			<answer id="2">22</answer>
+			<answer id="3">33</answer>
+			<answer id="4">44</answer>
+		</item>
+		<item id="14">
+			<question correct="2">Prize winning, in what sport might you win the Calcutta Cup?</question>
+			<answer id="1">Tennis</answer>
+			<answer id="2">Rugby</answer>
+			<answer id="3">Football</answer>
+			<answer id="4">Golf</answer>
+		</item>
+        <item id="15">
+			<question correct="3">Racing home, what is the nationality of Fernando Alonso, the youngest-ever grand prix winner?</question>
+			<answer id="1">Italian</answer>
+			<answer id="2">German</answer>
+			<answer id="3">Spanish</answer>
+			<answer id="4">French</answer>
+		</item>
+        <item id="16">
+			<question correct="1">Make a bet? What number was Makybe Diva wearing when she won the 2005 Melbourne Cup?</question>
+			<answer id="1">1</answer>
+			<answer id="2">2</answer>
+			<answer id="3">3</answer>
+			<answer id="4">4</answer>
+		</item>
+		<item id="17">
+			<question correct="3">Goal! Which country won the first soccer World Cup?</question>
+			<answer id="1">France</answer>
+			<answer id="2">Brazil</answer>
+			<answer id="3">Uruguay</answer>
+			<answer id="4">Italy</answer>
+        </item>
+		<item id="18">
+			<question correct="2">Served up, who was doubles partner with Lleyton Hewitt when they won the Grand Slam doubles title at the US Open in 2000?</question>
+			<answer id="1">Boris Becker</answer>
+			<answer id="2">Max Mirnyi</answer>
+			<answer id="3">Bjorn Borg</answer>
+			<answer id="4">Sam Stosur</answer>
+		</item>
+		<item id="19">
+			<question correct="1">Go and stand in the corner. In what sport do players take long and short corners?</question>
+			<answer id="1">Hockey</answer>
+			<answer id="2">Tennis</answer>
+			<answer id="3">Gridiron</answer>
+			<answer id="4">Netball</answer>
+		</item>
+        <item id="20">
+			<question correct="2">The Ryder cup has been a golf competition between Europe and the USA since what year? (Prior it was between the U.S.A. &amp; U.K.)</question>
+			<answer id="1">1952</answer>
+			<answer id="2">1965</answer>
+			<answer id="3">1979</answer>
+			<answer id="4">1988</answer>
+		</item>
+    </items>
+</quiz>
